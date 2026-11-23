@@ -18,4 +18,5 @@ A comprehensive relational database project built using Microsoft Access. This s
 If you have Microsoft Access installed, you can download the `.accdb` file from this repository and open it to explore the tables, forms, and relationships. Alternatively, you can view the screenshots provided below.
 
 ## Project Result
+![Hospital Database Screenshot](Screenshot 2026-11-23 232830.png)
 *(You can upload a screenshot of your Microsoft Access relationships window here)*
